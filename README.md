@@ -60,6 +60,8 @@ Desarrollar un dashboard que permita:
 ## 📈 **Visualizaciones Incluidas**
 
 ![Visualizaciones](img/Visualizaciones1.png)
+![Visualizaciones](img/Visualizaciones2.png)
+![Visualizaciones](img/Visualizaciones3.png)
 
 * Venta total por categoría
 * Ranking de productos
@@ -81,7 +83,7 @@ Desarrollar un dashboard que permita:
 
 ## 🤖 **Insights Automáticos**
 
-![Insights Automáticos](img/Insights Automaticos.png)
+![Insights Automáticos](img/Insights_Automaticos.png)
 
 Algunos insights generados:
 
